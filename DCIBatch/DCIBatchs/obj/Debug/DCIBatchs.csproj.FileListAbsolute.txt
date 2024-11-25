@@ -1,0 +1,8 @@
+D:\git\DCIBatchs\DCIBatch\DCIBatchs\bin\Debug\DCIBatchs.exe.config
+D:\git\DCIBatchs\DCIBatch\DCIBatchs\bin\Debug\DCIBatchs.exe
+D:\git\DCIBatchs\DCIBatch\DCIBatchs\bin\Debug\DCIBatchs.pdb
+D:\git\DCIBatchs\DCIBatch\DCIBatchs\obj\Debug\DCIBatchs.csproj.AssemblyReference.cache
+D:\git\DCIBatchs\DCIBatch\DCIBatchs\obj\Debug\DCIBatchs.csproj.CoreCompileInputs.cache
+D:\git\DCIBatchs\DCIBatch\DCIBatchs\obj\Debug\DCIBatchs.exe
+D:\git\DCIBatchs\DCIBatch\DCIBatchs\obj\Debug\DCIBatchs.pdb
+D:\git\DCIBatchs\DCIBatch\DCIBatchs\bin\Debug\Config.ini
